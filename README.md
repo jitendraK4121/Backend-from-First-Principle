@@ -45,7 +45,7 @@ This series is for:
 
 ## 🤝 Let’s Connect
 
-Found it helpful? Got suggestions? Reach out on [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jitendra-kumar-sahoo-149b2a221)).
+Found it helpful? Got suggestions? Reach out on [LinkedIn] (https://www.linkedin.com/in/jitendra-kumar-sahoo-149b2a221)).
 
 > 🔁 This README will grow as I continue to learn and publish.
 
